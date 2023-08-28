@@ -1,0 +1,42 @@
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.exe
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.deps.json
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.json
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.dev.json
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20vikj\source\repos\equation solver\equation solver\bin\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.AssemblyReference.cache
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfoInputs.cache
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfo.cs
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.CoreCompileInputs.cache
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20vikj\source\repos\equation solver\equation solver\obj\Debug\netcoreapp3.1\equation solver.genruntimeconfig.cache
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.exe
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.deps.json
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.json
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.dev.json
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20vikj\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.AssemblyReference.cache
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfoInputs.cache
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfo.cs
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.CoreCompileInputs.cache
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20vikj\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.genruntimeconfig.cache
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.exe
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.deps.json
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.json
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.runtimeconfig.dev.json
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\bin\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfoInputs.cache
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.AssemblyInfo.cs
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.CoreCompileInputs.cache
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.dll
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.pdb
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.genruntimeconfig.cache
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.csproj.AssemblyReference.cache
+C:\Users\20joed\Source\Repos\approximate-roots\equation solver\obj\Debug\netcoreapp3.1\equation solver.GeneratedMSBuildEditorConfig.editorconfig
